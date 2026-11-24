@@ -1,18 +1,16 @@
 <h1 align="center">
-  Olá, eu sou o Vinícius Noronha 👋
+  Vinícius Noronha
 </h1>
 
-<h3 align="center">
-  Estudante de Engenharia de Software
-</h3>
-
-<div align="center">
-  <img height="300em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif" alt="Animação de programação"/>
-</div>
+<p align="center">
+  <strong>Estudante de Engenharia de Software</strong> • Desenvolvimento Web & Backend
+</p>
 
 <p align="center">
-  Estudante de Engenharia de Software focado em desenvolvimento web e backend, em constante evolução na construção de aplicações escaláveis e bem estruturadas.
+  Focado em construir aplicações escaláveis, APIs bem estruturadas e interfaces funcionais. Em constante evolução técnica por meio de projetos práticos.
 </p>
+
+---
 
 ## 🛠 Tecnologias
 
@@ -31,5 +29,3 @@
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-
-
